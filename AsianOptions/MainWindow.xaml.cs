@@ -20,6 +20,8 @@ namespace AsianOptions
 
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml
+	/// Updated by : Ramon Ventoso
+	/// Updated date: 2018-06-25
 	/// </summary>
 	public partial class MainWindow : Window
 	{
